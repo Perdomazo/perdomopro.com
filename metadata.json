@@ -1,0 +1,6 @@
+{
+  "name": "PerdomoPro",
+  "description": "Portafolio y marca personal de Adrián Perdomo — Estudiante de Ingeniería en Computación y desarrollador en la intersección de software, cloud, infraestructura e IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
